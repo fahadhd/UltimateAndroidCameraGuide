@@ -33,7 +33,6 @@ import android.view.MenuItem;
 import com.ultimate.camera.NavigationDrawerFragment;
 import com.ultimate.camera.R;
 import com.ultimate.camera.fragments.BaseFragment;
-import com.ultimate.camera.fragments.HorizontalPhotoGalleryFragment;
 import com.ultimate.camera.fragments.NativeCameraFragment;
 import com.ultimate.camera.fragments.SimpleAndroidImagePickerFragment;
 import com.ultimate.camera.fragments.SimpleCameraIntentFragment;
@@ -109,10 +108,7 @@ public class MainActivity extends CameraActivity
                 targetFragment = NativeCameraFragment.newInstance(position + 1);
                 break;
             }
-            case HORIZONTAL_GALLERY_FRAGMENT:{
-                targetFragment = HorizontalPhotoGalleryFragment.newInstance(position + 1);
-                break;
-            }
+
             default:
                 break;
         }

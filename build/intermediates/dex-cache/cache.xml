@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_18e4c208cbbe86bd7b9fb01a8e0cf5c9417c5b8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_65aee7a59de9774cf4831265d47c17630e7cdee9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_8ad7330001f562699f9510f5b8dab7b6bdb6c16a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_9ea3067584481e6e5d73b4ce2e26843bd01e3798\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8ac6ef0a3df5a30cfebd4b896c18737b21600174\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_7553b003a7b507aa6836ea6db005374efce54e04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="abf92a571f49e92e5a2898dc452c8174f6f6d3fd">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a708cd98c9634c87ec38e419229f770ff503dea1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_e7560e801591ffbedae01376ba8d1e7ce0ba9328\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4644718e2971606d5f723259d394c6091422b0bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_f742186fa762c49381e17368e41caad6e81cee0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6b439e959b6f78f4d6816d769a3835176c43a622\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_5ded33ef2641976f281dded82a01631a398bbac1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_61eb19ab7066cb0e2fecd470425169e5758fc2ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_620b2224dc421bbddcc1809552c9c31bb7ddea19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fdcf68c6861014c356674cbb1e064f41ace7edb4">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1dd501e384bc2b23538666c48030aa51306eb33d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_1a23e4d0ecd63d19e86f7081c75684de6a5b04dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\UltimateAndroidCameraGuide\camera\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_4f263a48cfbdd289a24a7e753b7c4f17fd52fbe9\classes.dex" />
+    </item>
+
+</items>

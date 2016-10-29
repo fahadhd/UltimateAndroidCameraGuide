@@ -1,8 +1,8 @@
 apply plugin: 'android'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "19.0.1"
+    compileSdkVersion 23
+    buildToolsVersion "24.0.0"
 
     defaultConfig {
         minSdkVersion 11
@@ -14,7 +14,7 @@ android {
         debug {
         }
         release {
-            runProguard false
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
